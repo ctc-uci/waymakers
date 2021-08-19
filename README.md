@@ -18,7 +18,7 @@
 
 ![Events](https://lh3.googleusercontent.com/GCa_eprzkizmtgWzGC0aOKYkf2d2vQgmEXXKvRORKu8bSnAbiVZUsK5sM3O2C59Khxihl5ByrEZ-cKjkEE1Z=w1343-h1283)
 ![User Directory](https://lh3.googleusercontent.com/wnztl915lHbvABXD-qOzQL031CUdAYm_gJQFxFsN2tJO_t77AaFvXFq5nsDVrDX3J93nJnCD4EYxqFL0DbKU=w1343-h1283)
-![Inventory](https://lh3.googleusercontent.com/wnztl915lHbvABXD-qOzQL031CUdAYm_gJQFxFsN2tJO_t77AaFvXFq5nsDVrDX3J93nJnCD4EYxqFL0DbKU=w1343-h1283)
+![Inventory](https://lh6.googleusercontent.com/hiyPIwBGmRFAPn6lU0gDKF5RvcdGTkRRqLul4TfyCX2WZFBxXQtw6wdSicGeOoBSq2z5es7gDLwi5sXkwWCT=w1343-h1283)
 ![Sign-in](https://lh3.googleusercontent.com/_G8LH1cULT0xXf93f-fiJlv-tx9cNeE04pExFxPiAN9aaXOkGewZ8nDfXCLFFi5dx3ItxcDIM1F0ooT22L8a=w1343-h1283)
 
 **Tech Stack:**
