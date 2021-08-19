@@ -1,0 +1,6 @@
+[submodule "waymakers-frontend"]
+	path = waymakers-frontend
+	url = git@github.com:ctc-uci/waymakers-frontend.git
+[submodule "waymakers-backend"]
+	path = waymakers-backend
+	url = git@github.com:ctc-uci/waymakers-backend.git
