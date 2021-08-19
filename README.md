@@ -1,12 +1,12 @@
 
 # Waymakers
-![Waymakers Logo](https://media-exp1.licdn.com/dms/image/C4E1BAQFYOCQ-2SCftw/company-background_10000/0/1521837604390?e=2159024400&v=beta&t=1JHqCVw9FztoFSgZ8YC2AHKpCjSl4z_yCOTyqSuAFn0)
+![waymakers-banner-1](https://user-images.githubusercontent.com/45449494/130122579-62bf330a-8133-40df-bb67-fe27115de1c9.jpg)
 #### Waymakers seeks to build safer communities by helping individuals make their way through conflict and crisis to a place of strength and stability.
 
 **🌐** [Website](https://waymakersoc.org) | [Twitter](https://twitter.com/WaymakersOC) | [Facebook](https://www.facebook.com/WaymakersOC/) | [Instagram](https://www.instagram.com/WaymakersOC)
 
 
-![Waymakers Website Preview](https://i.imgur.com/BNwFMsO.png)
+![waymakers-web-preview](https://user-images.githubusercontent.com/45449494/130122650-c59c3aa8-7958-489e-a8e3-ea539dd514b6.png)
 
 
 ## 🔎 About the Project
@@ -16,10 +16,11 @@
 
 🆙 We built an online system for Waymakers to track their internal inventory, store and look up volunteer information, and create events for volunteers to participate in and log their hours. This solution helped Waymakers administrators to more easily facilitate volunteer organization and inventory management while reducing costs of paperwork and physical storage.
 
-![Events](https://lh3.googleusercontent.com/GCa_eprzkizmtgWzGC0aOKYkf2d2vQgmEXXKvRORKu8bSnAbiVZUsK5sM3O2C59Khxihl5ByrEZ-cKjkEE1Z=w1343-h1283)
-![User Directory](https://lh3.googleusercontent.com/wnztl915lHbvABXD-qOzQL031CUdAYm_gJQFxFsN2tJO_t77AaFvXFq5nsDVrDX3J93nJnCD4EYxqFL0DbKU=w1343-h1283)
-![Inventory](https://lh6.googleusercontent.com/hiyPIwBGmRFAPn6lU0gDKF5RvcdGTkRRqLul4TfyCX2WZFBxXQtw6wdSicGeOoBSq2z5es7gDLwi5sXkwWCT=w1343-h1283)
-![Sign-in](https://lh3.googleusercontent.com/_G8LH1cULT0xXf93f-fiJlv-tx9cNeE04pExFxPiAN9aaXOkGewZ8nDfXCLFFi5dx3ItxcDIM1F0ooT22L8a=w1343-h1283)
+![Events](https://user-images.githubusercontent.com/45449494/130122712-6ad5f2d8-56a4-4fb6-832c-c062c2f4e377.png)
+![User Directory](https://user-images.githubusercontent.com/45449494/130122763-2361c4cd-6cc3-4d8d-bd36-f0f3cd5b70de.png)
+![Inventory](https://user-images.githubusercontent.com/45449494/130122788-f2f8ef63-cb62-4f8b-b438-95f3eed74e09.png)
+![Sign-in](https://user-images.githubusercontent.com/45449494/130122813-97c208ad-9c57-4d42-ae10-009193f7d011.png)
+
 
 **Tech Stack:**
 
