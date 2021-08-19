@@ -23,9 +23,9 @@
 
 **Tech Stack:**
 
-Frontend - React
+**Frontend:** React
 
-Backend - NodeJS + PostgreSQL
+**Backend:** NodeJS + PostgreSQL
 
 
 ## 💻 Development 
@@ -34,7 +34,7 @@ Backend - NodeJS + PostgreSQL
 
 1. **Clone the project.**
 	
-	The `--recursive flag` will download both the frontend and backend submodule repos.
+	The `--recursive` flag will download both the frontend and backend submodule repos.
 	
 	`git clone --recursive git@github.com:ctc-uci/waymakers.git`
 
