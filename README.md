@@ -20,7 +20,9 @@
 **Tech Stack:**
 
 Frontend - React
+
 Backend - NodeJS + PostgreSQL
+
 
 ## 💻 Development 
 
@@ -39,6 +41,7 @@ Backend - NodeJS + PostgreSQL
 	`npm install`
 	
 3. **Add the `.env` files to `waymakers-frontend` and `waymakers-backend`.**
+
 
 ### 💨 Running the Project
 
