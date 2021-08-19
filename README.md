@@ -23,9 +23,9 @@
 
 **Tech Stack:**
 
-**Frontend:** React
+**🔼 Frontend:** React
 
-**Backend:** NodeJS + PostgreSQL
+**🔽 Backend:** NodeJS + PostgreSQL
 
 
 ## 💻 Development 
