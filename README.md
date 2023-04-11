@@ -37,18 +37,19 @@
 	
 	The `--recursive` flag will download both the frontend and backend submodule repos.
 	
-	`git clone --recursive git@github.com:ctc-uci/waymakers.git`
+	`git clone --recursive https://github.com/ctc-uci/waymakers`
 
 2. **Install the dependencies.**
 
 	A postinstall script will also run to install dependencies in the submodules.
 
-	`npm install`
+	`yarn install`
 	
-3. **Add the `.env` files to `waymakers-frontend` and `waymakers-backend`.**
+3. **Add `.env`s and other secret files to `waymakers-frontend` and `waymakers-backend`.**
 
 
 ### 💨 Running the Project
 
-- `npm start` will run the frontend and backend concurrently
-- To start the frontend or backend separately, `cd` into its respective directory and use `npm start` there.
+- `yarn start` will run the frontend and backend concurrently
+- To start the frontend or backend separately, `cd` into its respective directory and use `yarn start` there.
+- To update sub-repositories, use `git submodule update --remote` at the base or `cd` into a subdirectory and do `git pull`.

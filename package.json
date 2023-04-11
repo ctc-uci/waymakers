@@ -3,15 +3,15 @@
     "version": "1.0.0",
     "description": "A volunteer and inventory data tracker for Waymakers",
     "scripts": {
-        "frontend-install": "cd ./waymakers-frontend && npm install",
-        "backend-install": "cd ./waymakers-backend && npm install",
-        "submodules-install": "concurrently \"npm run frontend-install\" \"npm run backend-install\"",
-        "postinstall": "npm run submodules-install",
-        "backend": "npm run start --prefix ./waymakers-backend",
-        "frontend": "npm run start --prefix ./waymakers-frontend",
-        "start": "concurrently \"npm run backend\" \"npm run frontend\""
+        "frontend-install": "cd ./waymakers-frontend && yarn",
+        "backend-install": "cd ./waymakers-backend && yarn",
+        "submodules-install": "concurrently \"yarn frontend-install\" \"yarn backend-install\"",
+        "postinstall": "yarn submodules-install",
+        "backend": "cd ./waymakers-backend && yarn start",
+        "frontend": "cd ./waymakers-frontend && yarn start",
+        "start": "concurrently \"yarn backend\" \"yarn frontend\""
     },
     "devDependencies": {
-        "concurrently": "^5.3.0"
+        "concurrently": "^8.0.1"
     }
 }
