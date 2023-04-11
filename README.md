@@ -4,6 +4,7 @@
 #### Waymakers seeks to build safer communities by helping individuals make their way through conflict and crisis to a place of strength and stability.
 
 **🌐** [Website](https://waymakersoc.org) | [Twitter](https://twitter.com/WaymakersOC) | [Facebook](https://www.facebook.com/WaymakersOC/) | [Instagram](https://www.instagram.com/WaymakersOC)
+![AFC Web Preview](https://user-images.githubusercontent.com/58957906/231295300-11f3375e-59e8-40af-8cb1-40b4ca2b544e.png)
 
 
 ![WMK Web Preview](https://user-images.githubusercontent.com/45449494/130122650-c59c3aa8-7958-489e-a8e3-ea539dd514b6.png)
@@ -37,19 +38,18 @@
 	
 	The `--recursive` flag will download both the frontend and backend submodule repos.
 	
-	`git clone --recursive https://github.com/ctc-uci/waymakers`
+	`git clone --recursive git@github.com:ctc-uci/waymakers.git`
 
 2. **Install the dependencies.**
 
 	A postinstall script will also run to install dependencies in the submodules.
 
-	`yarn install`
+	`npm install`
 	
-3. **Add `.env`s and other secret files to `waymakers-frontend` and `waymakers-backend`.**
+3. **Add the `.env` files to `waymakers-frontend` and `waymakers-backend`.**
 
 
 ### 💨 Running the Project
 
-- `yarn start` will run the frontend and backend concurrently
-- To start the frontend or backend separately, `cd` into its respective directory and use `yarn start` there.
-- To update sub-repositories, use `git submodule update --remote` at the base or `cd` into a subdirectory and do `git pull`.
+- `npm start` will run the frontend and backend concurrently
+- To start the frontend or backend separately, `cd` into its respective directory and use `npm start` there.
